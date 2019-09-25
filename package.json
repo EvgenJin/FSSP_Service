@@ -1,0 +1,19 @@
+{
+  "name": "fssp_service",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/EvgenJin/FSSP_Service.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/EvgenJin/FSSP_Service/issues"
+  },
+  "homepage": "https://github.com/EvgenJin/FSSP_Service#readme"
+}
